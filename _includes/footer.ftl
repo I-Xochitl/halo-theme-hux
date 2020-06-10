@@ -77,10 +77,10 @@
                     </#if>
                 </ul>
                 <p class="copyright text-muted">
-                    Copyright &copy; ${options.blog_title!} ${(options.birthday)?number_to_date?string("yyyy")} 
+                    Copyright &copy; ${options.blog_title!} ${(options.birthday)?number_to_date?string("yyyy")}
                     <br>
-                    Theme by <a href="http://huangxuan.me">Hux</a> |
-                    Published with <a href="https://halo.run" target="_blank">Halo</a><br>
+
+                     <a href="http://beian.miit.gov.cn">粤ICP备17114835号</a><br>
                     <@global.footer />
                 </p>
             </div>

@@ -63,7 +63,7 @@
                 </section>
                 </#if>
 
-                <!-- Friends Blog -->
+                <!-- 其他链接-->
                 <#if settings.sidebar_links!true>
                     <hr>
                     <h5>FRIENDS</h5>
@@ -121,7 +121,7 @@
                 <!-- Short About -->
                 <section class="visible-md visible-lg">
                     <hr>
-                    <h5><a href="${blog_url!}/s/about">ABOUT ME</a></h5>
+                    <h5><a href="${blog_url!}/about/index.html">ABOUT ME</a></h5>
                     <div class="short-about">
                         <img src="${user.avatar!}"/>
                         <p>${user.description!}</p>
