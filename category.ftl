@@ -1,8 +1,7 @@
 <#include "module/default.ftl">
 <@default title="${category.name} - ${blog_title!}">
-    <#include "module/page.ftl">
 
-    <!-- Page Header -->
+<!-- Page Header -->
 <header class="intro-header" style="background-image: url('${category.thumbnail}')">
     <div class="container">
         <div class="row">
