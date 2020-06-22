@@ -1,4 +1,5 @@
 <#include "module/default.ftl">
+<#--文章详情页面-->
 <@default title="${post.title!} - ${blog_title!}">
 <!-- Image to hack wechat -->
 <!-- <img src="/img/icon_wechat.png" width="0" height="0"> -->
@@ -52,6 +53,7 @@
 <!-- Post Content -->
 <article>
     <div class="container">
+
         <div class="row">
 
             <!-- Post Container -->
@@ -59,6 +61,8 @@
                 col-lg-8 col-lg-offset-2
                 col-md-10 col-md-offset-1
                 post-container">
+
+
 
                 ${post.formatContent!}
 
@@ -87,6 +91,17 @@
                     <@comment post=post type="post" />
                 </div>
             </div>
+            <#--音乐插件-->
+            <div class="
+                col-lg-2 col-lg-offset-0
+                visible-lg-block
+                sidebar-container
+                catalog-container">
+                    <h5>MUSIC</h5>
+                    <div id="audio"></div>
+            </div>
+
+
             <div class="
                 col-lg-2 col-lg-offset-0
                 visible-lg-block

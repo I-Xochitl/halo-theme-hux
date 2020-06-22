@@ -4,9 +4,10 @@
 
     <#include "../_includes/head.ftl">
     <@head title="${title}"></@head>
-
     <!-- hack iOS CSS :active style -->
-    <body ontouchstart="">
+    <body ontouchstart=""  >
+
+
 
         <#include "../_includes/nav.ftl">
 

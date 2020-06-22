@@ -18,6 +18,7 @@
 
     <!-- Pygments Github CSS -->
     <link rel="stylesheet" href="${theme_base!}/source/css/syntax.css">
+    <link rel="stylesheet" href="${theme_base!}/source/css/PsAudio.css">
 
 
     <link href="//cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -25,6 +26,12 @@
 
     <link href='//fonts.loli.net/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
     <link href='//fonts.loli.net/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+    <#--https://github.com/passerma 音乐播放器-->
+    <link rel="stylesheet" href="${theme_base!}/source/css/PsAudio.css">
+
+
+
 
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->

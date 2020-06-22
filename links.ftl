@@ -2,7 +2,8 @@
 <@default title="链接收藏 - ${blog_title!}">
 
 <link rel="stylesheet" href="${theme_base!}/source/css/limks/iconfont.css">
-<link rel="stylesheet" href="${theme_base!}/source/css/limks/style.css?2222">
+<link rel="stylesheet" href="${theme_base!}/source/css/limks/style.css">
+
 
     <!-- Page Header -->
 <header class="intro-header" style="background-image: url('http://bk.img.langhe.vip/FpzHG6LUvxn1dgbTGkpY3WVzzhDB')">
@@ -20,6 +21,7 @@
 
     <!-- Main Content -->
     <div class="container">
+
         <div class="row">
             <div class="col-lg-12  col-md-12 ">
                 <div class="container" id="container">
