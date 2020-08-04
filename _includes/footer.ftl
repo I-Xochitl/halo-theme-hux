@@ -138,16 +138,16 @@
 
     // 外链方式，传入audioHttp属性，对应歌曲的链接
     psAudio({
-        audioSrcFile: '../themes/halo-theme-hux/source/musicbg',
+        audioSrcFile: '../themes/xuanhuang_hux/source/musicbg',
         audioSrc: ['花粥&马雨阳-盗将行','王大毛-忆少年', '张靓颖-如果这就是爱情','李荣浩-年少有为', '米津玄師-Lemon','陈奕迅-渐渐','G.E.M.邓紫棋-突然之间'],
         audioHttp: [
             'http://antiserver.kuwo.cn/anti.s?useless=/resource/&format=mp3&rid=MUSIC_142538099&response=res&type=convert_url&',
-            'https://sharefs.yun.kugou.com/202006221105/f9c41f23e525d97c89f3983636c9a07a/G138/M0B/10/07/KocBAFt1PoGARzz7ADIg08EEaDg655.mp3',
-            'https://sharefs.yun.kugou.com/202006221111/e1e688b0f6298ae629230473332af771/G107/M00/19/0F/C4cBAFveDROAJrW7AEOj4jabyms355.mp3',
-            'https://sharefs.yun.kugou.com/202006221056/a33abac1a6579aa89a41d884137db26a/G134/M08/18/1D/ZpQEAFtNlKqAAewBAEQ1qkxpSa4074.mp3',
-            'https://sharefs.yun.kugou.com/202006221104/97e657c261f7b98bb003394ea326e148/G128/M09/10/05/IIcBAFqAzN-AIIU2AD5mqrBi2UA864.mp3',
-            'https://sharefs.yun.kugou.com/202006221038/f619f2b7ff1963c24ec39f2ec92cf489/G131/M02/0F/03/ww0DAFss3EOAK6NPAEQJUIeNjzg371.mp3',
-            'https://sharefs.yun.kugou.com/202006221116/8d20a9c2c17eb089547bd90e49fcb378/G142/M05/11/1F/zg0DAFvRN3-AIiWWADEEvqBCDrs278.mp3',
+            'http://antiserver.kuwo.cn/anti.s?useless=/resource/&format=mp3&rid=MUSIC_84427930&response=res&type=convert_url&',
+            'http://antiserver.kuwo.cn/anti.s?useless=/resource/&format=mp3&rid=MUSIC_1694664&response=res&type=convert_url&',
+            'https://sharefs.yun.kugou.com/202008041046/52a99733e114261f201cab28416735ef/G134/M08/18/1D/ZpQEAFtNlKqAAewBAEQ1qkxpSa4074.mp3',
+            'http://antiserver.kuwo.cn/anti.s?useless=/resource/&format=mp3&rid=MUSIC_70211195&response=res&type=convert_url&',
+            'http://antiserver.kuwo.cn/anti.s?useless=/resource/&format=mp3&rid=MUSIC_141402837&response=res&type=convert_url&',
+            'http://antiserver.kuwo.cn/anti.s?useless=/resource/&format=mp3&rid=MUSIC_97942636&response=res&type=convert_url&',
         ],
         audioLic: [
             '[00:05.00]歌名：盗将行[00:10.00]歌手：花粥、马雨阳[00:18.00]劫过九重城关 我座下马正酣[00:23.00]看那轻飘飘的衣摆 趁擦肩把裙掀[00:29.00]踏遍三江六岸 借刀光做船帆[00:35.00]任露水浸透了短衫 大盗睥睨四野[00:43.00]枕风宿雪多年 我与虎谋早餐[00:49.00]拎着钓叟的鱼弦 问卧龙几两钱[00:55.00]蜀中大雨连绵 关外横尸遍野[01:02.00]你的笑像一条恶犬 撞乱了我心弦[01:23.00]谈花饮月赋闲 这春宵艳阳天[01:28.00]待到梦醒时分睁眼 铁甲寒意凛冽[01:34.00]夙愿只隔一箭 故乡近似天边[01:40.00]不知何人浅唱弄弦 我彷徨不可前[01:51.00]枕风宿雪多年 我与虎谋早餐[01:57.00]拎着钓叟的鱼弦 问卧龙几两钱[02:03.00]蜀中大雨连绵 关外横尸遍野[02:09.00]你的笑像一条恶犬 撞乱我心弦[02:15.00]烽烟万里如衔 掷群雄下酒宴[02:22.00]谢绝策勋十二转 想为你窃玉簪[02:28.00]入巷间吃汤面 笑看窗边飞雪[02:34.00]取腰间明珠弹山雀 立枇杷于庭前[02:45.00]入巷间吃汤面 笑看窗边飞雪[02:53.00]取腰间明珠弹山雀 立枇杷于庭前',
